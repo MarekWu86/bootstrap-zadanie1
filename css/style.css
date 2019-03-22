@@ -1,0 +1,33 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #7f7f7f;
+}
+i {
+    padding-top: 22px;
+    text-align: center;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    font-size: 60px;
+    color: orange;
+    border-radius: 50%;
+    background-color: rgb(246, 246, 246);
+}
+h1 {
+    margin-top: 200px;
+    font-size: 25px;
+}
+.my-header-text {
+    text-align: center;
+}
+.front-logos {
+    padding-bottom: 200px;
+}
+
+#title-line {
+    width: 33%;
+}
+.icons {
+    padding: 20px;
+    font-size: 18px;
+}
